@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @GauthierEstJoly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-GauthierEstJoly/GauthierEstJoly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Gauthier, i am currently a IT student.
+- 👀 I’m interested in any exotic programming languages, cyber security, reverse engineering and network / server administration.
+- 🌱 I’m currently learning Rust, Blender, web technologies and reverse engineering.
