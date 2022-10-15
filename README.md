@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Gauthier, i am currently a IT student.
-- 👀 I’m interested in any exotic programming languages, cyber security, reverse engineering and network / server administration.
-- 🌱 I’m currently learning Rust, Blender, web technologies and reverse engineering.
+[![Gauthier's GitHub stats](https://github-readme-stats.vercel.app/api?username=GauthierEstJoly&show_icons=true&theme=radical)](https://github.com/GauthierEstJoly)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauthierEstJoly&layout=compact&show_icons=true&theme=radical)](https://github.com/GauthierEstJoly)
